@@ -1,0 +1,86 @@
+.banner{
+    background-image: url(../../../assets/img/best-computer-cases-with-handles.jpg);
+    height: 800px;
+    background-position: center top;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.content{
+    top: 35%;
+    left: 20%;
+    position: absolute;
+}
+
+.content h1{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    top: 60%;
+    left: 40%;
+    position: absolute;
+}
+
+.content a{
+    text-decoration: none;
+    background-color: white;
+    color: blue;
+    padding: 15px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    top: 160px;
+    left: 280%;
+    position: relative;
+}
+
+.content a:hover{
+    background-color: black;
+    color: white;
+}
+
+.box{
+    background-color: azure;
+    padding: 40px 40px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.box h1{
+    font-size: 50px;
+    font-weight: normal;
+    color: black;
+}
+
+.box p{
+    font-size: 20px;
+    font-style: arial;
+    color: black;    
+}
+
+.foodbox{
+    padding: 10px 5px;
+}
+
+.foodbox img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.foodbox h1{
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.façaorçamento{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    
+}
+
